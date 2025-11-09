@@ -125,6 +125,10 @@ The architecture is a clean, decoupled full-stack application. The frontend (Rea
 5. **Run database migrations:**
 
    ```bash
+   python manage.py migrate chat 0001_initial
+   ```
+   
+   ```bash
    python manage.py migrate
    ```
 
@@ -155,7 +159,7 @@ The architecture is a clean, decoupled full-stack application. The frontend (Rea
 3. **Run the development server:**
 
    ```bash
-   npm start
+   npm run dev
    ```
 
    The frontend will open at `http://localhost:5173` (or your configured React port).

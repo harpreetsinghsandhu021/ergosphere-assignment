@@ -114,7 +114,7 @@ The architecture is a clean, decoupled full-stack application. The frontend (Rea
    ```
 
 4. **Create `.env` file:**  
-   In the `backend/chat_api` directory, create a file named `.env` and add your API key:
+   In the `backend` directory, create a file named `.env` and add your API key:
 
    ```
    GOOGLE_API_KEY=YOUR_API_KEY_GOES_HERE

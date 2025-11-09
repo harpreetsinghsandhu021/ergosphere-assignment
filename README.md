@@ -97,7 +97,7 @@ The architecture is a clean, decoupled full-stack application. The frontend (Rea
 1. **Navigate to the backend directory:**
 
    ```bash
-   cd backend/chat_api
+   cd backend/
    ```
 
 2. **Create a virtual environment (Recommended):**
